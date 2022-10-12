@@ -1,4 +1,4 @@
-# Home
+# Wetboek Oosterveld
 
 Welkom op de pagina voor de Wet- en Regelgeving van Oosterveld In het menu aan de linkerkant vind je alle verschillende documenten die betrekking hebben op Oosterveld.
 

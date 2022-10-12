@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Home](README.md)
+* [Wetboek Oosterveld](README.md)
 * [Algemene Plaatselijke Verordening Oosterveld](algemene-plaatselijke-verordening-oosterveld.md)
