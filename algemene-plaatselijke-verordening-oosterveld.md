@@ -2,7 +2,15 @@
 
 ### Wetstechnische informatie <a href="#wetstechnische-informatie" id="wetstechnische-informatie"></a>
 
-Overheidsorganisatie Hoge Raad Oosterveld Officiële naam regeling Algemene Plaatselijke Verordening Oosterveld Citeertite Algemene Plaatselijke Verordening Oosterveld Vastgesteld door De Hoge Raad Onderwerp Openbare orde en veiligheid
+|                      |                             |
+| -------------------- | --------------------------- |
+| Overheidsorganisatie | Hoge Raad Van Oosterveld    |
+| Officiële naam       | Algemeen Wetboek Oosterveld |
+| Citeertitel          | Wetboek Oosterveld          |
+| Vastgesteld door     | De Hoge Raad                |
+| Onderwerp            | Openbare orde en veiligheid |
+
+### Algemene Bepalingen <a href="#algemene-bepalingen" id="algemene-bepalingen"></a>
 
 #### Opmerkingen met betrekking tot de verordening <a href="#opmerkingen-met-betrekking-tot-de-verordening" id="opmerkingen-met-betrekking-tot-de-verordening"></a>
 
