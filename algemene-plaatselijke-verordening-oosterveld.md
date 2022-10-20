@@ -2,11 +2,11 @@
 
 ### Wetstechnische informatie <a href="#wetstechnische-informatie" id="wetstechnische-informatie"></a>
 
-OverheidsorganisatieHoge Raad OosterveldOfficiële naam regelingAlgemene Plaatselijke Verordening OosterveldCiteertitelAlgemene Plaatselijke Verordening OosterveldVastgesteld doorDe Hoge RaadOnderwerpOpenbare orde en veiligheid
+Overheidsorganisatie Hoge Raad Oosterveld Officiële naam regeling Algemene Plaatselijke Verordening Oosterveld Citeertite Algemene Plaatselijke Verordening Oosterveld Vastgesteld door De Hoge Raad Onderwerp Openbare orde en veiligheid
 
 #### Opmerkingen met betrekking tot de verordening <a href="#opmerkingen-met-betrekking-tot-de-verordening" id="opmerkingen-met-betrekking-tot-de-verordening"></a>
 
-Het Wetboek van Strafrecht, specifiek bedoeld voor Tedeapolis, wordt hierbij ingetrokken en vervangen door deze APV.
+Het Wetboek van Strafrecht, specifiek bedoeld voor Oosterveld, wordt hierbij ingetrokken en vervangen door deze APV.
 
 ### Algemene Bepalingen <a href="#algemene-bepalingen" id="algemene-bepalingen"></a>
 
@@ -355,12 +355,12 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Tedeapolis, wordt hierbij ing
 
 #### Artikel 34 - Roleplay & Ledenaantal Criminele Organisaties <a href="#artikel-34-roleplay-ledenaantal-criminele-organisaties" id="artikel-34-roleplay-ledenaantal-criminele-organisaties"></a>
 
-1. 1.Onder "criminele organisaties" vallen alle officiële groepen gevestigd in Tedeapolis.
+1. 1.Onder "criminele organisaties" vallen alle officiële groepen gevestigd in Oosterveld.
 2. 2.Criminele organisaties mogen een maximaal ledenaantal van 25 personen hebben. Hierin is een vrije keuze voor het aantal leden met de "hangaround" rang.
 3. 3.Bij een overtreding van het ledenaantal genoemd in lid 2 zal een straf worden uitgedeeld volgens de 1e categorie aan de eigena(a)r(en) van de organisatie.
 4. 4.Bij herhaling van het overtreden van lid 2 zal een straf van de 2e categorie volgen en wordt er een gangstrike uitgedeeld aan de organisatie.
 5. 5.Criminele organisaties mogen met een maximum aantal van 20 personen een roleplay scenario houden. Dit mag met hun volledige organisatie of met leden van andere officiële of onofficïele organisatie. Hierbij geldt een maximum van 2 groepen die mogen samenwerken.
-6. 6.Een voorwaarde voor het samenwerken tussen criminele organisaties is dat er geen volledige samenwerking tussen alle organisaties ontstaat en dat dit niet gebeurd tijdens het witwassen van geld. Dit is ter beoordeling van de Hoge Raad van Tedeapolis.
+6. 6.Een voorwaarde voor het samenwerken tussen criminele organisaties is dat er geen volledige samenwerking tussen alle organisaties ontstaat en dat dit niet gebeurd tijdens het witwassen van geld. Dit is ter beoordeling van de Hoge Raad van Oosterveld.
 7. 7.Wanneer officiële organisaties een samenwerking aangaan met een andere officiële organisatie dan dient dit gemeld te worden volgens het format in het daarvoor aangemaakte kanaal in de Oosterveld Discord.
 8. 8.Bij overtreding of niet nakomen van lid 5, 6 en/of 7 zal dit resulteren in een straf volgens de 5e categorie voor iedereen die meedeed aan het roleplayscenario.
 9. 9.Bij herhaling van het overtreden of niet nakomen van lid 5, 6 en/of 7 zal naast een straf van de 6e categorie ook een gangstrike uitgedeeld worden.
@@ -470,7 +470,7 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Tedeapolis, wordt hierbij ing
 #### Artikel 46 - Discord <a href="#artikel-47-discord" id="artikel-47-discord"></a>
 
 1. 1.Het is niet toegestaan om externe discords te gebruiken voor roleplay gerelateerde zaken.
-2. 2.Wanneer je met meerdere mensen die op TedeaPolis spelen in een voicecall zit, is streamen niet toegestaan en moet je gedeafened en gemute zijn. Als één persoon in-game is en de rest niet en je besluit om alsnog in een call te zitten zonder dat je gedeafened/gemute bent, ben je dus ook in overtreding van deze regel.
+2. 2.Wanneer je met meerdere mensen die op Oosterveld spelen in een voicecall zit, is streamen niet toegestaan en moet je gedeafened en gemute zijn. Als één persoon in-game is en de rest niet en je besluit om alsnog in een call te zitten zonder dat je gedeafened/gemute bent, ben je dus ook in overtreding van deze regel.
 3. 3.Het streamen van de main server in een discord server is nooit toegestaan, tenzij je expliciet toestemming hebt van een stafflid.
 4. 4.Het overtreden van het feit genoemd in lid 1, 2 of 3 zal resulteren in een straf van de 1e categorie.
 5. 5.Het overtreden van het feit genoemd in lid 1, 2 of 3 als eigenaar, moderator en/of stafflid van deze server zal resulteren in een straf van de 7e categorie.
