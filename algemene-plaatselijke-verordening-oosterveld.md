@@ -629,3 +629,12 @@ Onderstaande regels tellen alleen op Mexico
 * wanneer je wordt vermoord door een rivaliserende gang mag je 24 uur niet deelnemen aan eventuele wraakacties of roleplay richting een andere gang.
 * Het is verboden een ambulancier of anwb'er te vermoorden of te ontvoeren bij een oproep of gebruik van hun.
 * Het is verboden om drugslocaties of wapens te verkopen via twitter, ook als je het hebt over broodmessen, waterpistolen en alles wat je er voor kan bedenken .
+
+
+
+### Donatieregels <a href="#slotbepaling-regels-in-het-kort" id="slotbepaling-regels-in-het-kort"></a>
+
+* Het is verboden om auto's of goederen die je verkrijgt via de donatiewebsite te verhandelen of te verkopen bij een quicksell.&#x20;
+* Aankopen dienen te gebeuren met toestemming van je ouders of voogd indien je minderjarig bent.
+* Er worden geen refunds uitgeschreven op auto's of andere spullen verkregen door een donatie bij een overtreding van de donatieregels.
+
