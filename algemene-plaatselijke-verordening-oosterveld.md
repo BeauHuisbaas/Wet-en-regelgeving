@@ -637,4 +637,5 @@ Onderstaande regels tellen alleen op Mexico
 * Het is verboden om auto's of goederen die je verkrijgt via de donatiewebsite te verhandelen of te verkopen bij een quicksell.&#x20;
 * Aankopen dienen te gebeuren met toestemming van je ouders of voogd indien je minderjarig bent.
 * Er worden geen refunds uitgeschreven op auto's of andere spullen verkregen door een donatie bij een overtreding van de donatieregels.
+* Iedere inbreuk op de donatieregels zal bestraft worden met een straf van de vijfde categorie.
 
