@@ -57,6 +57,17 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Oosterveld, wordt hierbij ing
 4. 4.Het Nederlands Recht is leidend, _tenzij_ er een Wet of Bepaling is opgenomen in het wetboek van Oosterveld. Dan is deze leidend.
 5. 5.Dit wetboek is, net als deze APV en conform de rechtsstaat, ten alle tijden openbaar.
 
+### A5 - Doneren <a href="#overtredingen-verstoring-openbare-orde-rp" id="overtredingen-verstoring-openbare-orde-rp"></a>
+
+
+
+1. Het is ten alle tijden je eigen verantwoordelijkheid om te doneren. het is niet verplicht
+2. Als je onder de 18 jaar bent moet je toestemming vragen aan je ouders/verzorgers/voogd
+3. Re funds worden niet gegeven het is altijd op je eigen risico
+4. het is verboden om de auto's die je verkrijgt via een donatie door te verkopen of door de quicksell heen te doen. Mocht dit gebeuren dan wordt het geld van te rekening afgehaald en krijg je een straf uit de categorie 5
+
+### &#x20;<a href="#overtredingen-verstoring-openbare-orde-rp" id="overtredingen-verstoring-openbare-orde-rp"></a>
+
 ### Overtredingen - Verstoring openbare orde (RP) <a href="#overtredingen-verstoring-openbare-orde-rp" id="overtredingen-verstoring-openbare-orde-rp"></a>
 
 #### Artikel 1 - FailRP & Powergaming <a href="#artikel-1-failrp-powergaming" id="artikel-1-failrp-powergaming"></a>
