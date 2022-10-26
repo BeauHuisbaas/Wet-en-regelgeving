@@ -10,7 +10,7 @@ Zorg ervoor, dat je voor je deelneemt aan Oosterveld, kennis hebt genomen van de
 
 ### Officiële discord servers <a href="#officiele-discord-servers" id="officiele-discord-servers"></a>
 
-Tedeapolis heeft verschillende discord servers die zijn goed gekeurd door het stadsbestuur deze zijn:
+Oosterveld heeft verschillende discord servers die zijn goed gekeurd door het stadsbestuur deze zijn:
 
 | Server                                | Beschrijving                                         |                 Invite link                 |
 | ------------------------------------- | ---------------------------------------------------- | :-----------------------------------------: |
