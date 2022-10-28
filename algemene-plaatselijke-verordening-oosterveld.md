@@ -28,6 +28,7 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Oosterveld, wordt hierbij ing
 1. 1.Bij aanpassingen van een wetgeving na het tijdstip waarop het feit begaan is, worden de voor de verdachte meest gunstigste bepalingen toegepast.
 2. 2.Het is voor een staff-lid NIET toegestaan om mee te beslissen over een zaak die over hunzelf, vrienden en/of familie gaat. Dit om te versterken dat een zaak op een eerlijke en rechtvaardige manier behandeld wordt.
 3. 3.Als er tegen staff gelogen wordt en dit met hard bewijs bewezen wordt, door bijvoorbeeld logbestanden, kan er gekozen worden de straf te verzwaren.
+4. Het is niet toegestaan om stafleden te benaderen privé. voor strafzaken gebeurt dit wel dan volgt er een straf van de 3de Categorie
 
 #### A3 - Strafbepaling <a href="#a3-strafbepaling" id="a3-strafbepaling"></a>
 
@@ -56,6 +57,7 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Oosterveld, wordt hierbij ing
 3. 3.Dit Wetboek heeft, net als de APV, een basis in het Nederlands Recht.
 4. 4.Het Nederlands Recht is leidend, _tenzij_ er een Wet of Bepaling is opgenomen in het wetboek van Oosterveld. Dan is deze leidend.
 5. 5.Dit wetboek is, net als deze APV en conform de rechtsstaat, ten alle tijden openbaar.
+6. Het is niet toegestaan om stafleden te benaderen privé. voor strafzaken gebeurt dit wel dan volgt er een straf van de 3de Categorie
 
 ### A5 - Doneren <a href="#overtredingen-verstoring-openbare-orde-rp" id="overtredingen-verstoring-openbare-orde-rp"></a>
 
