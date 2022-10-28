@@ -143,12 +143,16 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Oosterveld, wordt hierbij ing
 2. 2.Hij/zij die als niet ambtenaar kleding draagt van één van de overheids banen zal gestraft worden met een straf volgens de 2e categorie.
 3. 3.Officiële kleding verstrekt vanuit Oosterveld bedoeld voor specifieke groeperingen mogen niet door andere gebruikt worden tenzij hier sterke roleplay aan verbonden is.
 4. 4.Overtreding van lid 3 zal worden bestraft met een straf uit van de 1e categorie.
-5. 5.Onder ambtenaar vallen de mensen in dienst bij één van de volgende instanties:
-   * Politie
-   * Justitie
-   * Ambulance
-   * ANWB
-   * Gemeenteraad
+5.  5.Onder ambtenaar vallen de mensen in dienst bij één van de volgende instanties:
+
+    * Politie
+    * Justitie
+    * Ambulance
+    * ANWB
+    * Gemeenteraad\
+
+
+    6\. Het is verplicht als je een uwv baan doet dat je de bijbehoorde kleding aantrekt
 
 #### Artikel 7 - Baiting <a href="#artikel-7-baiting" id="artikel-7-baiting"></a>
 
