@@ -115,6 +115,8 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Oosterveld, wordt hierbij ing
 4. 4.De bedragen zoals genoemd in lid 2 en lid 3 zijn ook van toepassing voor voorwerpen, hiervoor zal dan de waarde van deze voorwerpen worden getaxeerd. Taxering geschiedt hier op basis van catalogus of -marktwaarde.
 5. 5.De bedragen en/of materialen zullen per direct teruggegeven worden aan de Hoge Raad. De Hoge Raad dient deze per direct te vernietigen. Hiernaast zullen de betrokken accounts ook volledig verwijderd worden (categorie 8).
 6. 6.Naast de in lid 1, 2 en 3 genoemde straffen zal de overtreder ook 25% van de waarde extra terug moeten betalen.
+7. Het is NIET toegestaan om met je privé auto/helikoper/vliegtuig/vrachtwagen die hier NIET voor  bedoeld is  een UWV baan te doen
+8. Het is verplicht om in in werk kleding je UWV en het voertuig die je moet gebruiken bij het UWV horen &#x20;
 
 #### Artikel 4 - Verstoring RP <a href="#artikel-4-verstoring-rp" id="artikel-4-verstoring-rp"></a>
 
