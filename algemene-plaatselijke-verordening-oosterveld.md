@@ -119,6 +119,7 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Oosterveld, wordt hierbij ing
 6. 6.Naast de in lid 1, 2 en 3 genoemde straffen zal de overtreder ook 25% van de waarde extra terug moeten betalen.
 7. Het is NIET toegestaan om met je privé auto/helikoper/vliegtuig/vrachtwagen die hier NIET voor  bedoeld is  een UWV baan te doen mocht dit vaker voorkomen dan volgt er een straf Categorie 2
 8. Het is verplicht om in in werk kleding je UWV en het voertuig die je moet gebruiken bij het UWV horen mocht dit vaker voorkomen dan volgt er een straf Categorie 2
+9. Het is NIET toegestaan om vanuit een Garage die bedoelt is voor de helikopters/vliegtuigen je auto te pakken
 
 #### Artikel 4 - Verstoring RP <a href="#artikel-4-verstoring-rp" id="artikel-4-verstoring-rp"></a>
 
@@ -180,6 +181,7 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Oosterveld, wordt hierbij ing
 1. 1.Er wordt van personen geacht realistisch rijgedrag aan te houden. Dus niet met circuit auto’s door de woestijn heen rijden met 100 km/u.
 2. 2.Overtredingen van lid 1 worden bestraft met een straf van de 1e categorie.
 3. 3.De overtreding zoals beschreven in lid 1 staat bekend als “GTA driving”
+4. Het is NIET toegestaan om vanuit een Garage die bedoelt is voor de helikopters/vliegtuigen je auto te pakken
 
 #### Artikel 11 - Value of Life <a href="#artikel-11-value-of-life" id="artikel-11-value-of-life"></a>
 
@@ -354,6 +356,7 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Oosterveld, wordt hierbij ing
 1. 1.Er wordt geacht van mensen geen gebruik te maken van baan voertuigen voor illegale bezigheden. Dit valt onder alle UVW banen
 2. 2.Het is verplicht om voor het uitvoeren van je baan het voertuig te gebruiken dat is verstrekt door de baas.
 3. 3.Hij/zij die de regel zoals beschreven in lid 1 en/of 2 overtreed zal bestraft worden met een straf volgens de 3e categorie, hiernaast zal de overtreder ontslagen worden en deze persoon dit beroep een week lang niet uitvoeren.
+4. Het is NIET toegestaan om vanuit een Garage die bedoelt is voor de helikopters/vliegtuigen je auto te pakken
 
 #### Artikel 31 - Overval Regels <a href="#artikel-31-overval-regels" id="artikel-31-overval-regels"></a>
 
