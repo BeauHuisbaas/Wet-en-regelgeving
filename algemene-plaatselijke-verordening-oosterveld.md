@@ -155,7 +155,9 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Oosterveld, wordt hierbij ing
     * Gemeenteraad\
 
 
-    6\. Het is verplicht als je een uwv baan doet dat je de bijbehoorde kleding aantrekt
+
+
+    1. Het is verplicht als je een uwv baan doet dat je de bijbehoorde kleding draag
 
 #### Artikel 7 - Baiting <a href="#artikel-7-baiting" id="artikel-7-baiting"></a>
 
@@ -181,7 +183,11 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Oosterveld, wordt hierbij ing
 1. 1.Er wordt van personen geacht realistisch rijgedrag aan te houden. Dus niet met circuit auto’s door de woestijn heen rijden met 100 km/u.
 2. 2.Overtredingen van lid 1 worden bestraft met een straf van de 1e categorie.
 3. 3.De overtreding zoals beschreven in lid 1 staat bekend als “GTA driving”
-4. Het is NIET toegestaan om vanuit een Garage die bedoelt is voor de helikopters/vliegtuigen je auto te pakken
+4. &#x20;Vliegtuigen en Helikopters mogen alleen uit volgende garages genomen worde;
+5. LSA
+6. Sandy Airport
+7. Vliegtuigstrip Eiland
+8. Legerbasis (Politie etc) Auto's mogen niet uit bovenstaande garages genomen worden.
 
 #### Artikel 11 - Value of Life <a href="#artikel-11-value-of-life" id="artikel-11-value-of-life"></a>
 
